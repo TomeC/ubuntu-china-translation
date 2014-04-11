@@ -5,11 +5,11 @@
 =====
 [11840] If you’re not in the mobile industry, but you’re as excited as we are about Ubuntu on smartphones, we can let you know when the first phone is released.
 -----
-
+如果你对移动行业不感兴趣，但是你和我们一样，想知道Ubuntu系统在智能手机上效果如何，我们可以在第一台手机发布时立即通知你。
 =====
 [11841] Register to find out first ›
 -----
-
+请先注册 >
 =====
 [11996] Operator and OEM partners | Ubuntu for phones | Ubuntu
 -----
@@ -17,7 +17,7 @@
 =====
 [11997] Built for the phone industry
 -----
-
+为电话行业打造
 =====
 [11998] We have the needs of network operators, OEMs and ODMs
 -----
@@ -25,63 +25,63 @@
 =====
 [11999] Stunning design, even on the leanest smartphones
 -----
-
+纤薄机身，依旧惊艳
 =====
 [12000] Learn more about the Ubuntu experience on smartphones ›
 -----
-
+了解更多Ubuntu系统体验 >
 =====
 [12001] System requirements for smartphones
 -----
-
+智能手机硬件需求
 =====
 [12002] Entry level Ubuntu smartphone
 -----
-
+入门级Ubuntu智能手机需求
 =====
 [12003] High-end Ubuntu "superphone"
 -----
-
+发烧级Ubuntu智能手机需求
 =====
 [12004] Processor architecture
 -----
-
+处理器架构
 =====
 [12005] 1Ghz Cortex A9
 -----
-
+1Ghz Cortex A9处理器
 =====
 [12006] Quad-core A9 or Intel Atom
 -----
-
+Quad-core A9 or Intel Atom处理器
 =====
 [12007] Memory
 -----
-
+内存
 =====
 [12008] 512MB – 1GB
 -----
-
+512MB – 1GB
 =====
 [12009] Min 1GB
 -----
-
+最小1GB
 =====
 [12010] Flash storage
 -----
-
+闪存
 =====
 [12011] 4-8GB eMMC + SD
 -----
-
+4-8GB eMMC + SD
 =====
 [12012] Min 32GB eMMC + SD
 -----
-
+最小32GB eMMC + SD
 =====
 [12013] Multi-touch
 -----
-
+多点触摸
 =====
 [12014] Desktop convergence
 -----
@@ -89,35 +89,35 @@
 =====
 [12015] The phone with the heart of a PC
 -----
-
+手机身 PC心
 =====
 [12016] Customise to your needs
 -----
-
+自由定制
 =====
 [12017] The developer’s favourite OS
 -----
-
+开发者最喜爱操作系统
 =====
 [12018] Existing web properties can be installed on the Ubuntu phone, where they can run as web apps independent of the browser, with full access to the system just like native apps.
 -----
-
+已有Web应用可脱离浏览器作为Web App独立运行，仍能像本地应用一样访问系统。
 =====
 [12019] Ubuntu is already a wildly popular platform for web developers and savvy users.
 -----
-
+Ubuntu已在Web开发者和有格调的使用者中广泛使用。
 =====
 [12020] The standard Android development environment is Ubuntu.
 -----
-
+Ubuntu是Android的标准开发环境。
 =====
 [12021] Major game developers like EA, Valve and Unity Technologies are now committing to Ubuntu.
 -----
-
+EA、Valve和Unity Technologies等主流游戏开发商也在参与完善Ubuntu。
 =====
 [12022] Learn more about developing apps for Ubuntu ›
 -----
-
+了解更多Ubuntu应用开发 >
 =====
 [12023] Easier hardware enablement
 -----
@@ -125,7 +125,7 @@
 =====
 [12025] A truly global solution
 -----
-
+一个真正面向全球的解决方案
 =====
 [12026] Thanks to Canonical’s relationships with its OEM partners, Ubuntu has an enormous retail presence in key emerging economies, with branded merchandising and trained retail staff in over 1,000 stores.
 -----
@@ -133,11 +133,11 @@
 =====
 [12027] Learn more about how we support Ubuntu ›
 -----
-
+了解更多我们如何支持Ubuntu >
 =====
 [12441] Start building now
 -----
-
+和我们一起完善Ubuntu
 =====
 [12442] The commercial and technical lowdown, for executives and engineers.
 -----
@@ -145,15 +145,15 @@
 =====
 [12443] Learn more about building with us ›
 -----
-
+了解更多如何完善Ubuntu
 =====
 [14097] If you already
 -----
-
+如果你已经
 =====
 [14098] make handsets that run Android, the work needed to adopt Ubuntu will be trivial
 -----
-
+制造出可运行Android的设备，适配Ubuntu将非常容易
 =====
 [71] Canonical and Ubuntu
 -----
@@ -425,11 +425,11 @@ Ubuntu安卓版
 =====
 {1112} Ubuntu provides a fast and beautiful experience, even on inexpensive hardware. It doesn’t have the overhead of a Java virtual machine, so all core applications run at full native speeds with a small memory footprint. That gives the UI a luxurious, responsive feel without the requirement of premium hardware components.
 -----
-
+即使在廉价设备上，Ubuntu依然能够提供快速、优雅的使用体验。Ubuntu中所有的核心程序不依赖于Java虚拟机，因此他们能够在设备上全速运行，且占用更少内存。
 =====
 {1113} And on the high end, Ubuntu paves the way for a new category of superphones, with a full PC desktop accessible just by docking the device to a monitor and keyboard. A truly handheld PC is the future of personal computing.
 -----
-
+通过带键盘和显示器的扩展插槽，Ubuntu定义了智能手机的全新使用方式，完美的桌面级PC使用体验。
 =====
 {1114} High-end smartphones have a brain as powerful as ultra-light laptops. Ubuntu uniquely enables a new category of convergence device – phones that dock to become full PCs and thin clients – enabling enterprise IT departments to replace phones, thin clients and laptops with a single secure corporate device.
 -----
@@ -445,7 +445,7 @@ Ubuntu安卓版
 =====
 {1118} HTML5 is fully supported but Ubuntu is not limited to HTML5. To use the full power of the hardware, you can develop native apps, using OpenGL and QML, with C or C++ and Javascript compiled for extra performance.
 -----
-
+为了展现硬件的全部性能，Ubuntu不仅全面支持HTML5，同时支持通过C、C++和Javascript开发的本地应用。
 =====
 {1119} We have teams based in Taipei, Shanghai, London, Beijing and Boston to engage with your engineering and factory operations – and their sole focus is to deliver a crisp Ubuntu experience on your device.
 -----
