@@ -1,27 +1,43 @@
 =====
-[31950] Ready for your phone
+[34174] Scopes
 -----
-准备好你的手机吧！
+
 =====
-[31951] Visit the founders page
+[34943] A beautiful experience
 -----
-访问创始人页面
+
 =====
-[32209] Ubuntu Kylin
+[34944] Users can surface their content naturally and industry can customise endlessly
 -----
-Ubuntu麒麟
+
 =====
-[33965] © 2014 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+[34945] Learn more about scopes ›
 -----
-© 2014 Canonical公司.Ubuntu and Canonical注册了Canonical公司的商标.
+
 =====
-[33999] Partner programmes
+[34946] Learn more about Ubuntu’s features ›
 -----
-合作计划
+
 =====
-[34000] Partner services
+[34947] Watch the Ubuntu phone video ›
 -----
-合作服务
+
+=====
+[35503] Get in touch today ›
+-----
+
+=====
+[35516] All developers need
+-----
+
+=====
+[35517] Learn more about Canonical ›
+-----
+
+=====
+[35518] Read more about the CAG ›
+-----
+
 =====
 [71] Canonical and Ubuntu
 -----
@@ -47,29 +63,33 @@ Landscape 特性
 -----
 OEM 及运营商
 =====
-[3] Ubuntu
------
-Ubuntu
-=====
 [8360] Ubuntu Advantage
 -----
 Ubuntu Advantage计划
 =====
-[31945] Ubuntu brings a fast and beautiful experience to any phone.
+[34915] Ubuntu OpenStack
 -----
-Ubuntu在任何手机上都能带来更快、更好的体验。
+Ubuntu OpenStack
 =====
 [28] Ubuntu for Android
 -----
 Ubuntu安卓版
 =====
-[31917] Ubuntu phone press release ›
+[31917] Ubuntu phone press release ›
 -----
 Ubuntu手机新闻 ›
 =====
 [243] Ubuntu certified
 -----
-Ubunt认证
+Ubuntu认证
+=====
+[32209] Ubuntu Kylin
+-----
+Ubuntu麒麟
+=====
+[33965] © 2014 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+-----
+© 2014 Canonical公司.Ubuntu and Canonical注册了Canonical公司的商标.
 =====
 [12543] ›
 -----
@@ -79,33 +99,17 @@ Ubunt认证
 -----
 下载
 =====
-[13876] Download:
------
-下载：
-=====
-[13890] Ubuntu for smartphones grabs global headlines ›
+[13890] Ubuntu for smartphones grabs global headlines ›
 -----
 为智能手机设计的Ubuntu成为全球焦点 ›
 =====
-[8476] Learn more about Canonical ›
------
-了解Canonical
-=====
-[11832] Learn about working with us ›
+[11832] Learn about working with us ›
 -----
 了解如何与我们合作 ›
 =====
-[31949] Learn more about Ubuntu's features ›
------
-了解更多关于Ubuntu手机的特性
-=====
-[11834] Learn more about developing apps ›
+[11834] Learn more about developing apps ›
 -----
 了解更多关于应用程序开发
-=====
-[15010] Read more about the CAG ›
------
-了解更多关于运营商咨询小组 ›
 =====
 [31761] Cloud labs
 -----
@@ -123,17 +127,25 @@ Ubunt认证
 -----
 云计算
 =====
-[31758] Use a cloud
+[4812] Public cloud
 -----
-使用云
+公有云
+=====
+[5263] About
+-----
+关于
 =====
 [61] About Ubuntu
 -----
 关于 Ubuntu
 =====
-[13881] About:
+[43] Alternative downloads
 -----
-关于：
+其它下载
+=====
+[31950] Ready for your phone
+-----
+准备好你的手机吧！
 =====
 [29] Features and specs
 -----
@@ -143,21 +155,33 @@ Ubunt认证
 -----
 功能齐全
 =====
-[31947] for developers and industry partners only
+[83] Partners
 -----
-只针对开发人员和行业合作伙伴
+合作伙伴
 =====
-[13879] Partners:
+[34000] Partner services
 -----
-合作伙伴：
+合作服务
+=====
+[33999] Partner programmes
+-----
+合作计划
 =====
 [10342] Working with Landscape
 -----
 和 Landscape 一起工作
 =====
+[12441] Start building now
+-----
+和我们一起完善Ubuntu
+=====
 [30] Commercial info
 -----
 商业信息
+=====
+[9853] Back to top
+-----
+回到页首
 =====
 [13893] Got to the top of the page
 -----
@@ -169,15 +193,11 @@ Ubunt认证
 =====
 [11840] If you’re not in the mobile industry, but you’re as excited as we are about Ubuntu on smartphones, we can let you know when the first phone is released.
 -----
-如果你并未身处移动行业，但你对智能机上的Ubuntu系统很感兴趣，那么当我们发布第一个手机版Ubuntu系统的时候，我们一定通知你。
+如果你对移动行业不感兴趣，但是你和我们一样，想知道Ubuntu系统在智能手机上效果如何，我们可以在第一台手机发布时立即通知你。
 =====
 [59] Security notices
 -----
 安全公告
-=====
-[31946] Install Ubuntu for phones
------
-安装Ubuntu手机系统
 =====
 [84] Find a partner
 -----
@@ -195,17 +215,9 @@ Ubunt认证
 -----
 应用生态
 =====
-[13892] Developers get the full support they need ›
+[13892] Developers get the full support they need ›
 -----
 开发人员将得到他们需要的全力支持
-=====
-[11833] Everything developers need
------
-开发人员所需的一切
-=====
-[31944] We’re mobile industry ready
------
-我们已经为手机产业准备好了
 =====
 [15009] The Carrier Advisory Group enables mobile operators to shape Ubuntu’s product development, and provides the opportunity to be a potential launch partner.
 -----
@@ -227,25 +239,21 @@ Ubunt认证
 -----
 投资回报率
 =====
+[35754] Report a bug
+-----
+报告错误
+=====
 [104] Careers
 -----
 招聘
-=====
-[13028] Explore further
------
-探索更多
 =====
 [5254] Search
 -----
 搜索
 =====
-[31757] Build a cloud
+[49] Support
 -----
-搭建云
-=====
-[13877] Support:
------
-支持：
+支持
 =====
 [21] Server
 -----
@@ -256,10 +264,6 @@ Ubunt认证
 服务器管理
 =====
 [19] Desktop
------
-桌面版
-=====
-[14500] 桌面版
 -----
 桌面版
 =====
@@ -275,10 +279,6 @@ Ubunt认证
 -----
 法律信息
 =====
-[11841] Register to find out first ›
------
-注册来获取第一手资讯
-=====
 [4] Take the tour
 -----
 浏览更多内容
@@ -290,14 +290,6 @@ Ubunt认证
 [6] Features
 -----
 特点
-=====
-[31915] Get in touch today ›
------
-现在就联系我们 ›
-=====
-[12441] Start building now
------
-现在开始行动吧！
 =====
 [31760] Ecosystem
 -----
@@ -314,14 +306,6 @@ Ubunt认证
 [13867] TV
 -----
 电视
-=====
-[14833] Intellectual Property Rights Policy
------
-知识产权策略
-=====
-[50] Community support
------
-社区支持
 =====
 [31914] Mobile carriers, phone manufacturers and ISVs, contact us and get the commercial and technical lowdown on Ubuntu for phones.
 -----
@@ -343,7 +327,7 @@ Ubunt认证
 -----
 联系我们
 =====
-[13891] Get the FAQs about Ubuntu on smartphones ›
+[13891] Get the FAQs about Ubuntu on smartphones ›
 -----
 获取有关Ubuntu 手机的常见问题解答
 =====
@@ -351,17 +335,25 @@ Ubunt认证
 -----
 行业
 =====
-[31916] Watch the Ubuntu phone video
------
-观看Ubuntu手机视频
-=====
 [11826] Design
 -----
 设计
 =====
+[31951] Visit the founders page
+-----
+访问创始人页面
+=====
+[11841] Register to find out first ›
+-----
+请先注册 >
+=====
 [35] Contributors
 -----
 贡献者
+=====
+[34980] Jump to site nav
+-----
+跳到导航
 =====
 [14897] Carrier Advisory Group
 -----
@@ -375,26 +367,22 @@ Ubunt认证
 -----
 阅读内容
 =====
-[103] Privacy policy
+{1849} Run all of your favourite apps from the launcher and swipe effortlessly between them using Ubuntu’s magic edges. Use the home scope to search phone and web, and keep your life and content organised with the brilliance of the Ubuntu’s scopes.
 -----
-隐私政策
+
 =====
-{1717} Run all of your favourite apps from the launcher and swipe effortlessly between them using Ubuntu’s magic edges. Use the Dash to search phone and web, and keep your life and content organised with the brilliance of Ubuntu scopes.
+{1951} Create gorgeous native apps or lightweight HTML5 apps easily, with our SDK. Repurpose web apps fast, so they look and work like their native cousins. With one OS for all form factors, one app can have interfaces for phone and desktop in just one upload.
 -----
-从启动器运行所有你最喜欢的应用软件，并且使用Ubuntu的"魔法边缘"可以不费劲的在它们之间来回切换。另外使用Dash来搜索电话和网络，让你的生活在Ubuntu的帮助下更加绚丽多彩。
+
 =====
 {1718} With all-native core apps and no Java overhead, Ubuntu runs well on entry-level smartphones — yet it uses the same drivers as Android. So now it’s easy to bring a better experience to customers all over the world.
 -----
 使用原生态的内核而且没有java的开销，Ubuntu在入门级的智能机上运行的相当好——当然，它使用和安卓一样的硬件。因此它可以为全世界的用户带来更好的体验。
 =====
-{1719} Create gorgeous native apps or lightweight HTML5 apps easily, with our SDK. Repurpose web apps fast, so they look and work like their native cousins. With one OS for all form factors, one app can have interfaces for phone and desktop in just one upload to one store.
+{1721} We provide hardware enablement services to the world’s biggest PC OEMs and, as a result, Ubuntu now ships pre-installed on 10% of the world’s new PCs. With staff and offices all over the world, we have the resources you need to deliver Ubuntu on smartphones.
 -----
-使用我们的SDK可以轻松地创建漂亮的本地应用程序或轻量级的HTML5应用程序。为web程序做快速变换，使它们看起来像在本地运行一样。由于一个应用程序可以提供手机版和电脑版的接口，因而只需上传到一家应用商店便可在一个操作系统下应对所有的问题。
+我们向世界上最大的个人电脑制造商提供硬件支持服务。经过努力，现在Ubuntu占到世界上的新PC 10％的预装量。我们的工作人员和办事处遍布全世界，我们有您需要提供Ubuntu智能机上的资源。
 =====
 {1720} Our Indiegogo campaign made the Ubuntu Edge the talk of the tech industry. It smashed crowdfunding records from day one and attracted more than 25,000 backers, from enthusiastic individuals to companies as big as Bloomberg. Thank you all for your support!
 -----
-我们在Indiegogo上使Ubuntu“边缘”成为科技行业的热门话题。它从第一天开始就打破了crowdfunding的记录，并吸引了超过25,000名支持者，从热心人士到公司大如彭博。谢谢大家的支持！
-=====
-{1721} We provide hardware enablement services to the world’s biggest PC OEMs and, as a result, Ubuntu now ships pre-installed on 10% of the world’s new PCs. With staff and offices all over the world, we have the resources you need to deliver Ubuntu on smartphones.
------
-我们向世界上最大的个人电脑原始设备制造商提供的硬件支持服务，经过努力，现在Ubuntu占到世界上的新PC 10％的预装量。我们的工作人员和办事处遍布全世界，我们有您需要提供Ubuntu智能机上的资源。
+我们在Indiegogo上使Ubuntu Edge成为科技行业的热门话题。它从第一天开始就打破了众筹记录，并吸引了超过25,000名支持者，从热心人士到如彭博社一般的大公司。谢谢大家的支持！
