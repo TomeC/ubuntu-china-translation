@@ -3,5 +3,4 @@ ubuntu-china-translation
 
 Translation of Ubuntu Chinese Website ( ubuntu.org.cn )
 
-Volunteers can create a pull request to make contributions, or you can simply contact me to join us!
-
+Volunteers, now please contact me before making forks, to prevent from translating old files and strings.
